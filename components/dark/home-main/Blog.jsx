@@ -52,7 +52,7 @@ function Blog() {
                     </div>
                     <h5>
                       <a href="/dark/blog-details">
-                      Stimuler le commerce en ligne avec l'optimisation du référencement.
+                      Stimuler le commerce en ligne avec l&apos;optimisation du référencement.
                       </a>
                     </h5>
                     <span className="date fz-12 ls1 text-u opacity-7 mt-80">
