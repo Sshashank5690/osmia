@@ -50,7 +50,7 @@ function Footer() {
                     </a>
                   </li>
                 </ul>
-              </div> // blog-list wale footer ko chnage karo
+              </div> 
             </div>
           </div>
           <div className="row pt-80">
