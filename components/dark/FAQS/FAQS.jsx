@@ -1,5 +1,6 @@
 'use client';
 import React from 'react';
+import Image from 'next/image';
 
 function FAQS() {
   function openAccordion(event) {
@@ -20,7 +21,7 @@ function FAQS() {
             <div className="sec-head md-mb80">
               <h6 className="sub-title main-color mb-15">FAQS</h6>
               <h2>
-              Foire aux <br /> questions posées
+                Foire aux <br /> questions posées
               </h2>
             </div>
           </div>
@@ -33,16 +34,18 @@ function FAQS() {
                     <span className="ico ti-plus"></span>
                   </div>
                   <div className="accordion-info">
-                  <p className="" style={{fontSize: '14px'}}>
+                    <p className="" style={{fontSize: '14px'}}>
                       Les avantages du référencement naturel résident dans sa capacité à 
                       générer un trafic qualifié sur votre site web de manière organique, 
                       ce qui signifie que les visiteurs sont plus susceptibles d&apos;être intéressés 
                       par vos produits ou services. De plus, le référencement naturel offre des 
                       résultats durables à long terme et est souvent considéré comme plus rentable 
                       que d&apos;méthodes de marketing en ligne à long terme.
-                  </p>
+                    </p>
                   </div>
                 </div>
+
+                {/* Other accordion items */}
 
                 <div
                   className="item active mb-15 wow fadeInUp"
@@ -182,6 +185,7 @@ function FAQS() {
                     </p>
                   </div>
                 </div>
+
 
               </div>
             </div>
