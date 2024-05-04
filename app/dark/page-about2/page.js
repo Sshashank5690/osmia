@@ -1,32 +1,32 @@
-import generateStylesheetObject from '@/common/generateStylesheetsObject';
-import Footer from '@/components/dark/blog-list/Footer';
-import Header from '@/components/dark/about2/Header';
-import Lines from '@/components/dark/common/Lines';
-import ProgressScroll from '@/components/dark/common/ProgressScroll';
-import Cursor from '@/components/dark/common/cusor';
-import LoadingScreen from '@/components/dark/common/loader';
-import Navbar from '@/components/dark/creative-agency/Navbar';
-import Script from 'next/script';
-import Intro from '@/components/dark/about2/Intro';
-import Marquee from '@/components/dark/about2/Marquee';
-import Testimonials from '@/components/dark/about/Testimonials';
-import Team from '@/components/dark/about/Team';
-import Blog from '@/components/dark/about/Blog';
-import Numbers from '@/components/dark/about2/Numbers';
-import About from '@/components/dark/about2/About';
-import Brands from '@/components/dark/about2/Brands';
-import Services from '@/components/dark/about2/Services';
+import generateStylesheetObject from "@/common/generateStylesheetsObject";
+import Footer from "@/components/dark/blog-list/Footer";
+import Header from "@/components/dark/about2/Header";
+import Lines from "@/components/dark/common/Lines";
+import ProgressScroll from "@/components/dark/common/ProgressScroll";
+import Cursor from "@/components/dark/common/cusor";
+import LoadingScreen from "@/components/dark/common/loader";
+import Navbar from "@/components/dark/creative-agency/Navbar";
+import Script from "next/script";
+import Intro from "@/components/dark/about2/Intro";
+import Marquee from "@/components/dark/about2/Marquee";
+import Testimonials from "@/components/dark/about/Testimonials";
+// import Team from '@/components/dark/about/Team';
+import Blog from "@/components/dark/about/Blog";
+import Numbers from "@/components/dark/about2/Numbers";
+import About from "@/components/dark/about2/About";
+import Brands from "@/components/dark/about2/Brands";
+import Services from "@/components/dark/about2/Services";
 
 export const metadata = {
-  title: 'Infolio',
+  title: "Infolio",
   icons: {
-    icon: '/dark/assets/imgs/favicon.ico',
-    shortcut: '/dark/assets/imgs/favicon.ico',
+    icon: "/dark/assets/imgs/favicon.ico",
+    shortcut: "/dark/assets/imgs/favicon.ico",
     other: generateStylesheetObject([
-      '/dark/assets/css/plugins.css',
-      '/dark/assets/css/satoshi.css',
-      '/dark/assets/css/style.css',
-      'https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap',
+      "/dark/assets/css/plugins.css",
+      "/dark/assets/css/satoshi.css",
+      "/dark/assets/css/style.css",
+      "https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap",
     ]),
   },
 };
@@ -51,7 +51,7 @@ export default function BlogList() {
             <Brands />
             <Services />
             <Testimonials />
-            <Team />
+            {/* <Team /> */}
             <Blog />
           </main>
           <Footer />
