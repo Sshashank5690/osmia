@@ -34,7 +34,7 @@ function Header() {
             <div className="text mb-100">
             <h4 style={{fontFamily: 'League Spartan, sans-serif'}}>
             <span style={{fontSize: '2em', fontWeight: 'bold'}}>Osmia</span><span style={{color: '#00adb5', fontSize: '2em'}}>.</span> 
-            s'engage à accompagner les entreprises engagées dans leur succès, en favorisant une transparence absolue entre nous et nos clients, pour tisser des liens authentiques et catalyser la croissance de votre activité.
+            s&apos;engage à accompagner les entreprises engagées dans leur succès, en favorisant une transparence absolue entre nous et nos clients, pour tisser des liens authentiques et catalyser la croissance de votre activité.
            </h4>
             </div>
           </div>

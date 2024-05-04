@@ -52,7 +52,7 @@ function Intro() {
               l&apos;importance d&apos;avoir une bonne visibilité en ligne pour votre entreprise.
               Cependant, de nombreuses personnes préfèrent gérer elles-mêmes leur référencement, 
               ce qui peut non seulement leur faire perdre du temps, mais aussi de l&apos;argent.
-              Avec Osmia, nous vous proposons d'être accompagné par notre équipe formée afin d&apos;obtenir un 
+              Avec Osmia, nous vous proposons d&apos;être accompagné par notre équipe formée afin d&apos;obtenir un 
               référencement de qualité, vous permettant ainsi de gagner du temps et d&apos;attirer plus de clients.
               </p>
             </div>

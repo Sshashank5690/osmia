@@ -39,7 +39,7 @@ function FAQS() {
                       ce qui signifie que les visiteurs sont plus susceptibles d&apos;être intéressés 
                       par vos produits ou services. De plus, le référencement naturel offre des 
                       résultats durables à long terme et est souvent considéré comme plus rentable 
-                      que d'autres méthodes de marketing en ligne à long terme.
+                      que d'&apos; méthodes de marketing en ligne à long terme.
                   </p>
                   </div>
                 </div>
@@ -56,7 +56,7 @@ function FAQS() {
                     <p className="mb-30">
                     Google Ads est un service de publicité en ligne proposé par Google qui vous 
                     permet de diffuser des annonces payantes sur le réseau Google. Ces annonces 
-                    apparaissent sur les résultats de recherche Google et sur d'autres sites 
+                    apparaissent sur les résultats de recherche Google et sur d&apos;autres sites 
                     partenaires. Utiliser Google Ads peut vous aider à obtenir une visibilité 
                     instantanée auprès de votre public cible et à générer du trafic vers votre site web.
                     </p>
@@ -65,7 +65,7 @@ function FAQS() {
 
                 <div className="item mb-15 wow fadeInUp" data-wow-delay=".3s">
                   <div onClick={openAccordion} className="title">
-                    <h6>Comment votre équipe garantit-elle la durabilité et l'efficacité du référencement 
+                    <h6>Comment votre équipe garantit-elle la durabilité et l&apos;efficacité du référencement 
                       naturel à long terme ?</h6>
                     <span className="ico ti-plus"></span>
                   </div>
@@ -104,19 +104,25 @@ function FAQS() {
                   </div>
                   <div className="accordion-info">
                     <p className="">
-                    Le plan personnalisé offre une approche sur mesure adaptée aux besoins spécifiques de votre entreprise. En optant pour ce plan, vous bénéficiez de services supplémentaires tels que la gestion des réseaux sociaux et la création de vidéos personnalisées, ce qui vous permet de mieux atteindre votre public cible et de différencier votre entreprise de la concurrence.
+                    Le plan personnalisé offre une approche sur mesure adaptée aux besoins spécifiques de votre entreprise. 
+                    En optant pour ce plan, vous bénéficiez de services supplémentaires tels que la gestion des réseaux sociaux 
+                    et la création de vidéos personnalisées, ce qui vous permet de mieux atteindre votre public cible et de 
+                    différencier votre entreprise de la concurrence.
                     </p>
                   </div>
                 </div>
 
                 <div className="item wow fadeInUp" data-wow-delay=".5s">
                   <div onClick={openAccordion} className="title">
-                    <h6>Pouvez-vous m'expliquer en détail comment votre équipe gère les réseaux sociaux pour promouvoir mon entreprise ?</h6>
+                    <h6>Pouvez-vous m&apos;expliquer en détail comment votre équipe gère les réseaux sociaux pour promouvoir mon entreprise ?</h6>
                     <span className="ico ti-plus"></span>
                   </div>
                   <div className="accordion-info">
                     <p className="">
-                    Notre équipe gère vos réseaux sociaux en élaborant une stratégie de contenu engageante et en publiant régulièrement du contenu pertinent pour votre audience. Nous surveillons également l'engagement et les commentaires, répondant rapidement aux questions et aux préoccupations des utilisateurs pour renforcer la présence de votre marque sur les réseaux sociaux.
+                    Notre équipe gère vos réseaux sociaux en élaborant une stratégie de contenu engageante et en publiant régulièrement du 
+                    contenu pertinent pour votre audience. Nous surveillons également l&apos;engagement et les commentaires, répondant
+                     rapidement aux questions et aux préoccupations des utilisateurs pour renforcer la présence de votre marque
+                      sur les réseaux sociaux.
                     </p>
                   </div>
                 </div>
@@ -128,19 +134,23 @@ function FAQS() {
                   </div>
                   <div className="accordion-info">
                     <p className="">
-                    Nous proposons différents types de vidéos pour promouvoir votre activité, notamment des vidéos promotionnelles, des témoignages clients, des tutoriels produits, etc. Nos vidéos sont réalisées par des professionnels expérimentés et sont adaptées à votre image de marque et à vos objectifs marketing.
+                    Nous proposons différents types de vidéos pour promouvoir votre activité, notamment des vidéos promotionnelles, 
+                    des témoignages clients, des tutoriels produits, etc. Nos vidéos sont réalisées par des professionnels expérimentés
+                     et sont adaptées à votre image de marque et à vos objectifs marketing.
                     </p>
                   </div>
                 </div>
 
                 <div className="item wow fadeInUp" data-wow-delay=".5s">
                   <div onClick={openAccordion} className="title">
-                    <h6>Quels sont les avantages de travailler avec votre équipe d'experts pour le référencement de mon entreprise ?</h6>
+                    <h6>Quels sont les avantages de travailler avec votre équipe d&apos;experts pour le référencement de mon entreprise ?</h6>
                     <span className="ico ti-plus"></span>
                   </div>
                   <div className="accordion-info">
                     <p className="">
-                    Travailler avec notre équipe d'experts vous garantit une approche personnalisée et axée sur les résultats pour le référencement de votre entreprise. Nous mettons à votre disposition notre expertise et notre expérience pour élaborer des stratégies efficaces qui répondent aux besoins spécifiques de votre entreprise et de votre secteur d'activité.
+                    Travailler avec notre équipe d&apos;experts vous garantit une approche personnalisée et axée sur les résultats pour le référencement de votre
+                     entreprise. Nous mettons à votre disposition notre expertise et notre expérience pour élaborer des stratégies efficaces
+                      qui répondent aux besoins spécifiques de votre entreprise et de votre secteur d&apos;activité.
                     </p>
                   </div>
                 </div>
@@ -152,19 +162,23 @@ function FAQS() {
                   </div>
                   <div className="accordion-info">
                     <p className="">
-                    Pour savoir si votre demande personnalisée peut être réalisée et connaître les conditions associées, nous vous invitons à entrer directement en contact avec notre équipe. Nous serons heureux d'évaluer vos besoins et de vous proposer une solution adaptée à votre entreprise.
+                    Pour savoir si votre demande personnalisée peut être réalisée et connaître les conditions associées, nous vous invitons
+                     à entrer directement en contact avec notre équipe. Nous serons heureux d'évaluer vos besoins et de vous proposer une 
+                     solution adaptée à votre entreprise.
                     </p>
                   </div>
                 </div>
 
                 <div className="item wow fadeInUp" data-wow-delay=".5s">
                   <div onClick={openAccordion} className="title">
-                    <h6>Quelle est votre approche pour garantir la satisfaction client et les résultats optimaux dans mon secteur d'activité ?</h6>
+                    <h6>Quelle est votre approche pour garantir la satisfaction client et les résultats optimaux dans mon secteur d&apos;activité ?</h6>
                     <span className="ico ti-plus"></span>
                   </div>
                   <div className="accordion-info">
                     <p className="">
-                    Notre approche pour garantir la satisfaction client et les résultats optimaux dans votre secteur d'activité repose sur une communication ouverte et transparente, une écoute attentive de vos besoins et des objectifs clairs. Nous nous engageons à fournir un service de haute qualité et à travailler en étroite collaboration avec vous pour atteindre vos objectifs commerciaux.
+                    Notre approche pour garantir la satisfaction client et les résultats optimaux dans votre secteur d&apos;activité repose sur une 
+                    communication ouverte et transparente, une écoute attentive de vos besoins et des objectifs clairs. Nous nous engageons 
+                    à fournir un service de haute qualité et à travailler en étroite collaboration avec vous pour atteindre vos objectifs commerciaux.
                     </p>
                   </div>
                 </div>
