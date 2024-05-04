@@ -39,7 +39,7 @@ function FAQS() {
                       ce qui signifie que les visiteurs sont plus susceptibles d&apos;être intéressés 
                       par vos produits ou services. De plus, le référencement naturel offre des 
                       résultats durables à long terme et est souvent considéré comme plus rentable 
-                      que d'&apos; méthodes de marketing en ligne à long terme.
+                      que d&apos;méthodes de marketing en ligne à long terme.
                   </p>
                   </div>
                 </div>
@@ -88,7 +88,7 @@ function FAQS() {
                   <div className="accordion-info">
                     <p className="">
                     La mise en place d&apos;une campagne Google Ads implique plusieurs étapes, 
-                    notamment la recherche de mots-clés pertinents, la création d'annonces
+                    notamment la recherche de mots-clés pertinents, la création d&apos;annonces
                      attrayantes, le paramétrage des enchères et des budgets, ainsi que le
                       suivi des performances à l&apos;aide d&apos;outils d&apos;analyse avancés. Notre 
                       équipe assure un suivi rigoureux des résultats, optimisant la campagne
@@ -163,7 +163,7 @@ function FAQS() {
                   <div className="accordion-info">
                     <p className="">
                     Pour savoir si votre demande personnalisée peut être réalisée et connaître les conditions associées, nous vous invitons
-                     à entrer directement en contact avec notre équipe. Nous serons heureux d'évaluer vos besoins et de vous proposer une 
+                     à entrer directement en contact avec notre équipe. Nous serons heureux d&apos;évaluer vos besoins et de vous proposer une 
                      solution adaptée à votre entreprise.
                     </p>
                   </div>
