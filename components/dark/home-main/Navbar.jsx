@@ -296,9 +296,9 @@ function Navbar() {
                   >
                     <div className="o-hidden">
                       <div className="link cursor-pointer dmenu">
-                        <span className="fill-text" data-text="Travaillez avec nous.">
-                        Travaillez avec nous.
-                        </span>{' '}
+                      <span className="fill-text" data-text="Travaillez avec nous" style={{fontSize: '22px'}}>
+                        Travaillez avec nous
+                    </span>{' '}
                         <i></i>
                       </div>
                     </div>
@@ -319,9 +319,9 @@ function Navbar() {
                   >
                     <div className="o-hidden">
                       <div className="link cursor-pointer dmenu">
-                        <span className="fill-text" data-text="En savoir plus">
+                      <span className="fill-text" data-text="En savoir plus" style={{fontSize: '22px'}}>
                           En savoir plus
-                        </span>{' '}
+                      </span>{' '}
                         <i></i>
                       </div>
                     </div>
@@ -331,9 +331,9 @@ function Navbar() {
                           <div className="o-hidden">
                             <div className="link cursor-pointer sub-dmenu">
                             <a href='/dark/page-about'>
-                              <span className="fill-text" data-text="À propos de nous">
-                                  À propos de nous
-                              </span>{' '}
+                            <span className="fill-text" data-text="À propos de nous" style={{fontSize: '22px'}}>
+                                À propos de nous
+                            </span>{' '}
                               </a>
                               <i></i>
                             </div>
@@ -353,8 +353,8 @@ function Navbar() {
                           <div className="o-hidden">
                             <div className="link cursor-pointer sub-dmenu">
                               <a href='/dark/page-services'>
-                              <span className="fill-text" data-text="Prestations de service">
-                                Prestations de service
+                              <span className="fill-text" data-text="Prestations de service" style={{fontSize: '22px'}}>
+                                  Prestations de service
                               </span>{' '}
                               </a>
                               <i></i>
@@ -377,9 +377,9 @@ function Navbar() {
                           <div className="o-hidden">
                             <div className="link cursor-pointer sub-dmenu">
                               <a href='/dark/page-contact'>
-                              <span className="fill-text" data-text="Contact">
-                                Contact
-                              </span>{' '}
+                              <span className="fill-text" data-text="Contact" style={{fontSize: '22px'}}>
+                                    Contact
+                                </span>{' '}
                               </a>
                               <i></i>
                             </div>
@@ -401,8 +401,8 @@ function Navbar() {
                           <div className="o-hidden">
                             <div className="link cursor-pointer sub-dmenu">
                               <a href='/dark/page-FAQS'>
-                              <span className="fill-text" data-text="FAQS">
-                                FAQS
+                              <span className="fill-text" data-text="FAQS" style={{fontSize: '22px'}}>
+                                  FAQS
                               </span>{' '}
                               </a>
                               <i></i>
@@ -462,8 +462,8 @@ function Navbar() {
                   >
                     <div className="o-hidden">
                       <a href="/dark/page-contact" className="link">
-                        <span className="fill-text" data-text="Contact Us">
-                          Contact Us
+                      <span className="fill-text" data-text="Contact Us" style={{fontSize: '22px'}}>
+                            Contact Us
                         </span>
                       </a>
                     </div>
