@@ -36,7 +36,7 @@ function Portfolio() {
           <div className="bord pt-25 bord-thin-top d-flex justify-content-end">
             <h2 className="fw-600 d-rotate wow">
               <span className="rotate-text">
-                Our en vedette <span className="fw-200">Travail</span>
+                En savoir  <span className="fw-200">plus</span>
               </span>
             </h2>
           </div>
@@ -115,19 +115,13 @@ function Portfolio() {
 </ul>
         </div>
       </div>
-      {/* <div className="container mt-40">
+      <div className="container mt-40">
         <div className="sec-bottom mt-100">
           <div className="main-bg d-flex align-items-center">
-            <p>Here are some select projects that showcase.</p>
-            <a
-              href="/dark/portfolio-standard"
-              className="butn main-color ml-40 underline"
-            >
-              <span>View All</span>
-            </a>
+            <p>Votre projet est le notre aussi ! </p>
           </div>
         </div>
-      </div> */}
+      </div>
     </section>
   );
 }

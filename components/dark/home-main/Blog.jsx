@@ -9,7 +9,7 @@ function Blog() {
           <div className="bord pt-25 bord-thin-top d-flex align-items-center">
             <h2 className="fw-600 d-rotate wow">
               <span className="rotate-text">
-              Lire le dernier <span className="fw-200">mises à jour</span>
+              Articles <span className="fw-200">à lire</span>
               </span>
             </h2>
             <div className="ml-auto">
@@ -26,7 +26,7 @@ function Blog() {
               <div className="row rest">
                 <div className="col-lg-6 col-md-5 img rest">
                   <img
-                    src="/dark/assets/imgs/blog/b/2.png"
+                    src="/dark/assets/imgs/blog/b/2.PNG"
                     alt=""
                     className="img-post"
                   />
@@ -48,11 +48,11 @@ function Blog() {
                 <div className="col-lg-6 col-md-7 cont valign">
                   <div className="full-width">
                     <div className="tags mb-15">
-                      <a href="/dark/blog-details">Image de marque en ligne</a>
+                      <a href="/">Image de marque en ligne</a>
                     </div>
                     <h5>
                       <a href="/dark/blog-details">
-                      Stimuler le commerce en ligne avec l&apos;optimisation du référencement.
+                      Le référencement, la clé pour ouvrir la porte du succès.
                       </a>
                     </h5>
                     <span className="date fz-12 ls1 text-u opacity-7 mt-80">
@@ -94,7 +94,7 @@ function Blog() {
                     </div>
                     <h5>
                       <a href="/dark/blog-details">
-                      Classement en ligne avec annonces Google.
+                      La puissance de google ads à votre disposition.
                       </a>
                     </h5>
                     <span className="date fz-12 ls1 text-u opacity-7 mt-80">

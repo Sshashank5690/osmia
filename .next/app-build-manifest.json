@@ -12,30 +12,25 @@
       "static/css/app/layout.css",
       "static/chunks/app/layout.js"
     ],
-    "/dark/project2/page": [
+    "/dark/page-about/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/dark/project2/page.js"
+      "static/chunks/app/dark/page-about/page.js"
     ],
     "/dark/page-services/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/dark/page-services/page.js"
     ],
-    "/dark/page-about/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/dark/page-about/page.js"
-    ],
-    "/dark/page-contact/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/dark/page-contact/page.js"
-    ],
     "/dark/page-FAQS/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/dark/page-FAQS/page.js"
+    ],
+    "/dark/blog-details/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/dark/blog-details/page.js"
     ],
     "/_not-found/page": [
       "static/chunks/webpack.js",
