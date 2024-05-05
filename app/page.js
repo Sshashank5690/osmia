@@ -27,7 +27,7 @@ export const metadata = {
       "/dark/assets/css/satoshi.css",
       "/dark/assets/css/style.css",
       "https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap",
-      "https://fonts.googleapis.com/css2?family=League+Spartan&display=swap",
+      "https://fonts.googleapis.com/css2?family=League+Spartan:100,200,300,400,500,600,700,800,900&display=swap",
     ]),
   },
 };
