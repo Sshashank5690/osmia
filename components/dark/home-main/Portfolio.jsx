@@ -53,7 +53,7 @@ function Portfolio() {
                   className="img"
                   data-tab="tab-1"
                 >
-                  <img src="/dark/assets/imgs/works/1/1.jpg" alt="" />
+                  <img src="/dark/assets/imgs/works/1/1.JPG" alt="" />
                   <a href="/dark/page-about" className="link-overlay"></a>
                 </div>
                 <div className="cont">
@@ -70,7 +70,7 @@ function Portfolio() {
                   className="img"
                   data-tab="tab-2"
                 >
-                  <img src="/dark/assets/imgs/works/1/2.jpg" alt="" />
+                  <img src="/dark/assets/imgs/works/1/2.JPG" alt="" />
                   <a href="/dark/page-about" className="link-overlay"></a>
                 </div>
                 <div className="cont">
@@ -87,7 +87,7 @@ function Portfolio() {
                   className="img"
                   data-tab="tab-3"
                 >
-                  <img src="/dark/assets/imgs/works/1/3.png" alt="" />
+                  <img src="/dark/assets/imgs/works/1/3.PNG" alt="" />
                   <a href="/dark/page-about" className="link-overlay"></a>
                 </div>
                 <div className="cont">
