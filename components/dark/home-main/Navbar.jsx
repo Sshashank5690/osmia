@@ -296,7 +296,7 @@ function Navbar() {
                   >
                     <div className="o-hidden">
                       <div className="link cursor-pointer dmenu">
-                      <span className="fill-text" data-text="Travaillez avec nous" style={{fontSize: '22px'}}>
+                      <span className="fill-text" data-text="Travaillez avec nous" style={{fontSize: '20px'}}>
                         Travaillez avec nous
                     </span>{' '}
                         <i></i>
