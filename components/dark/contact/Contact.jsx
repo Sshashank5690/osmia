@@ -9,13 +9,14 @@ function Contact() {
             <div className="sec-head md-mb80">
               <h2 className="text-u ls1 d-rotate wow">
                 <span className="rotate-text">
-                Faisons votre <br /> marque{' '}
-                  <span className="fw-200">brillant!</span>
+                Reservez un appel avec un{' '}
+                  <span className="fw-200">de nos expert</span>
                 </span>
               </h2>
               <p className="mt-20 mb-20">
-              Si vous souhaitez travailler avec nous ou simplement nous contacter,
-              Nous aimerions recevoir de vos nouvelles!
+              Réservez un appel avec un de nos experts qui sera 
+              capable d&apos;analyser votre situation et évaluer vos besoins, 
+              qui vous guidera directement vers les meilleurs choix à faire au seins de votre entreprise !
               </p>
               <div className="row">
                 <div className="col-md-6">

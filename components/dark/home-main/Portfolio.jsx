@@ -45,24 +45,24 @@ function Portfolio() {
       <div className="container position-re">
         <div className="links-img">
           <div className="row">
-            <div className="col-lg-4 items">
-              <div className="item">
+            <div className="item">
                 <div
-                  onMouseEnter={handleMouseEnter}
-                  onMouseLeave={handleMouseLeave}
-                  className="img"
-                  data-tab="tab-1"
+                    onMouseEnter={handleMouseEnter}
+                    onMouseLeave={handleMouseLeave}
+                    className="img"
+                    data-tab="tab-1"
+                    style={{backgroundSize: 'cover'}}
                 >
-                  <img src="/dark/assets/imgs/works/1/1.JPG" alt="" />
-                  <a href="/dark/page-about" className="link-overlay"></a>
+                    <img src="/dark/assets/imgs/works/1/1.JPG" alt=""  />
+                    <a href="/dark/page-about" className="link-overlay"></a>
                 </div>
                 <div className="cont">
-                  <span className="tag">Seo Optimisation</span>
-                  <h2>Sites professionnels</h2>
+                    <span className="tag">Seo Optimisation</span>
+                    <h2>Sites professionnels</h2>
                 </div>
-              </div>
             </div>
-            <div className="col-lg-4 items">
+       
+            {/* <div className="col-lg-4 items">
               <div className="item">
                 <div
                   onMouseEnter={handleMouseEnter}
@@ -78,8 +78,8 @@ function Portfolio() {
                   <h2>Stimuler la présence en ligne</h2>
                 </div>
               </div>
-            </div>
-            <div className="col-lg-4 items">
+            </div> */}
+            {/* <div className="col-lg-4 items">
               <div className="item">
                 <div
                   onMouseEnter={handleMouseEnter}
@@ -95,7 +95,7 @@ function Portfolio() {
                   <h2>Rebranding et entreprise</h2>
                 </div>
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
         <div className="links-text">
@@ -104,14 +104,14 @@ function Portfolio() {
         <span className="tag" style={{color: '#222831', fontFamily: 'League Spartan, sans-serif', fontWeight: 'bold'}}>Seo Optimisation</span>
         <h2 style={{color: '#222831', fontFamily: 'League Spartan, sans-serif', fontWeight: 'bold'}}>Sites professionnels</h2>
     </li>
-    <li id="tab-2">
+    {/* <li id="tab-2">
         <span className="tag" style={{color: '#222831', fontFamily: 'League Spartan, sans-serif', fontWeight: 'bold'}}>Google Ads</span>
         <h2 style={{color: '#222831', fontFamily: 'League Spartan, sans-serif', fontWeight: 'bold'}}>Stimuler la présence en ligne</h2>
     </li>
     <li id="tab-3">
         <span className="tag" style={{color: '#222831', fontFamily: 'League Spartan, sans-serif', fontWeight: 'bold'}}>Obtenez la portée des utilisateurs</span>
         <h2 style={{color: '#222831', fontFamily: 'League Spartan, sans-serif', fontWeight: 'bold'}}>Rebranding et entreprise</h2>
-    </li>
+    </li> */}
 </ul>
         </div>
       </div>
