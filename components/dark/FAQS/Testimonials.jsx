@@ -29,7 +29,7 @@ function Testimonials() {
           <div className="col-lg-10">
             <div className="sec-head mb-80">
               <h2 className="fw-600 fz-70">
-              retour <br /> de nos <span className="fw-200">client</span>
+              Retour <br /> de nos <span className="fw-200">client</span>
               </h2>
             </div>
           </div>

@@ -1,17 +1,8 @@
 'use client';
+import loadBackgroudImages from '@/common/loadBackgroudImages';
 import React, { useEffect } from 'react';
 
 function Footer() {
-  function loadBackgroudImages() {
-    let backgroudImages = document.querySelectorAll('[data-background]');
-
-    if (backgroudImages.length > 0) {
-      backgroudImages.forEach((element) => {
-        let image = element.dataset.background;
-        element.style.backgroundImage = `url('${image}')`;
-      });
-    }
-  }
   useEffect(() => {
     loadBackgroudImages();
   }, []);
@@ -25,7 +16,7 @@ function Footer() {
         <div className="cal-action pb-50 mb-80 bord-thin-bottom">
           <h2 className="fz-120 line-height-1 d-rotate wow">
             <span className="rotate-text">
-              <a href="/dark/page-contact3">
+              <a href="/dark/page-contact">
                 Let’s Contact{' '}
                 <span className="ml-30 fz-70 ti-arrow-top-right"></span>
               </a>
@@ -41,51 +32,54 @@ function Footer() {
           <div className="col-lg-4">
             <div className="column">
               <div className="mb-40">
-                <h6 className="sub-title mb-30">Address</h6>
+                <h6 className="sub-title mb-30">Adresse</h6>
                 <h5 className="opacity-8">
-                  5919 Trussville <br /> Crossings Pkwy, Birmingham
+                  Europe
+                </h5>
+                <h5>
+                <a href="mailto:contact@osmiaagency.com">contact@<span style={{color: '#00adb5'}}>osmiaagency.com</span></a>
                 </h5>
               </div>
 
-              <a href="#0" className="underline">
-                <span className="fz-22 main-color">+2 456 (343) 24 45</span>
+              <a href="https://calendly.com/contact-sl29/30min" target='_blank' className="underline" style={{backgroundColor: '#00adb5', color: '#eeeeee', borderRadius: '50px', padding: '18px', textDecoration: 'none', fontSize: '18px', fontWeight: 'bold', fontFamily: 'League Spartan, sans-serif'}}>
+                Reserve a Call.
               </a>
             </div>
           </div>
           <div className="col-lg-2 offset-lg-1">
             <div className="column">
-              <h6 className="sub-title mb-30">Useful Links</h6>
+              <h6 className="sub-title mb-30">Liens utiles</h6>
               <ul className="rest fz-14">
                 <li className="mb-15">
-                  <a href="/dark/page-about">About</a>
+                  <a href="/dark/page-about">À propos de nous</a>
                 </li>
                 <li className="mb-15">
-                  <a href="/dark/page-services">Services</a>
+                  <a href="/dark/page-services">Nos Services</a>
                 </li>
                 <li className="mb-15">
-                  <a href="/dark/blog-list2">Blog</a>
+                    <a href="https://calendly.com/contact-sl29/30min" style={{fontFamily: 'League Spartan, sans-serif'}}>Reserve a call</a>
                 </li>
                 <li>
-                  <a href="/dark/page-contact">Contact</a>
+                  <a href="/dark/page-contact">Contact Us</a>
                 </li>
               </ul>
             </div>
           </div>
           <div className="col-lg-2">
             <div className="column">
-              <h6 className="sub-title mb-30">Support</h6>
+              <h6 className="sub-title mb-30">Soutien</h6>
               <ul className="rest fz-14">
                 <li className="mb-15">
                   <a href="/dark/page-FAQS">FAQS</a>
                 </li>
                 <li className="mb-15">
-                  <a href="/dark/page-about">Term & Conditions</a>
+                  <a href="/dark/page-about">Termes et conditions</a>
                 </li>
                 <li className="mb-15">
-                  <a href="/dark/page-about">Privacy policy</a>
+                  <a href="/dark/page-about">Politique de confidentialité</a>
                 </li>
                 <li>
-                  <a href="/dark/page-about">Help</a>
+                  <a href="/dark/page-about">Aide</a>
                 </li>
               </ul>
             </div>
@@ -94,35 +88,20 @@ function Footer() {
         <div className="d-flex align-items-center pt-30 pb-30 mt-80 bord-thin-top">
           <div>
             <ul className="rest d-flex align-items-center">
-              <li className="hover-this cursor-pointer">
-                <a href="#0" className="hover-anim">
-                  <i className="fab fa-facebook-f"></i>
-                </a>
-              </li>
               <li className="hover-this cursor-pointer ml-30">
-                <a href="#0" className="hover-anim">
-                  <i className="fab fa-dribbble"></i>
-                </a>
-              </li>
-              <li className="hover-this cursor-pointer ml-30">
-                <a href="#0" className="hover-anim">
+                <a href="http://www.linkedin.com/in/osmia-agency-718278306" className="hover-anim" target='_blank'>
                   <i className="fab fa-linkedin-in"></i>
-                </a>
-              </li>
-              <li className="hover-this cursor-pointer ml-30">
-                <a href="#0" className="hover-anim">
-                  <i className="fab fa-instagram"></i>
                 </a>
               </li>
             </ul>
           </div>
           <div className="ml-auto">
             <p className="fz-14">
-              © 2024 InFolio is Proudly Powered by{' '}
-              <span className="underline main-color">
-                <a href="https://themeforest.net/user/UiCamp" target="_blank">
-                  UiCamp
-                </a>
+              © 2024 All Rights Reserved By{' '}
+              <span className="underline">
+              <a href="https://calendly.com/contact-sl29/30min" target="_blank" style={{fontSize: '20px', fontWeight: 'bold'}}>
+                Osmia<span style={{color: '#00adb5'}}>.</span>
+              </a>
               </span>
             </p>
           </div>

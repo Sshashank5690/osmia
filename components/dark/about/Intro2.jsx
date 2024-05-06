@@ -20,10 +20,10 @@ function Intro2() {
                   <h4>Notre mission</h4>
                   <div className="text mt-30">
                     <p>
-                    Avec Osmia, le référencement de votre activité professionnelle 
-                    est pris en charge de A à Z. Nous nous assurons que votre entreprise 
-                    se développe de la meilleure manière possible, vous permettant ainsi
-                     de vous concentrer sereinement sur vos objectifs à atteindre.
+                    Chez Osmia, notre mission est de propulser vers de nouveaux 
+                    sommets les entreprises qui méritent déjà le succès, tout en 
+                    accompagnant celles qui aspirent à l&apos;atteindre. Vos objectifs 
+                    deviennent les nôtres, et ensemble, nous visons l&apos;excellence.
                     </p>
                   </div>
                 </div>
@@ -48,12 +48,11 @@ function Intro2() {
                   <h4>Notre vision</h4>
                   <div className="text mt-30">
                     <p>
-                    Cette année, lors de nos accompagnements, nous avons atteint un 
-                    taux de satisfaction client de 100 %. Rejoignez-nous dès aujourd&apos;hui 
-                    et bénéficiez des solutions clé en main les plus performantes pour 
-                    assurer le succès de votre activité. Notre équipe s&apos;engage à perfectionner 
-                    en permanence ses stratégies et à les adapter aux évolutions du marché, 
-                    afin de garantir une expérience optimale à nos clients.
+                    Chez Osmia, nous croyons que le succès est à la portée de 
+                    chacun, mais il est réservé à ceux qui s&apos;engagent pleinement 
+                    dans la voie de l&apos;excellence. Nous nous engageons à promouvoir 
+                    et à soutenir ces individus, car leur réussite contribue à 
+                    notre propre épanouissement.
                     </p>
                   </div>
                 </div>

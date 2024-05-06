@@ -48,7 +48,7 @@ function Blog() {
                 <div className="col-lg-6 col-md-7 cont valign">
                   <div className="full-width">
                     <div className="tags mb-15">
-                      <a href="/">Image de marque en ligne</a>
+                      <a href="/dark/page-about">Image de marque en ligne</a>
                     </div>
                     <h5>
                       <a href="/dark/blog-details">
@@ -90,7 +90,7 @@ function Blog() {
                 <div className="col-lg-6 col-md-7 cont valign">
                   <div className="full-width">
                     <div className="tags mb-15">
-                      <a href="/dark/blog-details">Google Ads</a>
+                      <a href="/dark/page-about">Google Ads</a>
                     </div>
                     <h5>
                       <a href="/dark/blog-details">

@@ -22,7 +22,7 @@ function Testimonials() {
             <div className="sec-head">
               <h6 className="sub-title main-color mb-15">Témoignages</h6>
               <h3 className="fw-600">
-              retour de nos <span className="fw-200">client </span>
+              Retour de nos <span className="fw-200">client </span>
               </h3>
             </div>
           </div>

@@ -26,14 +26,14 @@ function Slider() {
             <div className="caption">
               <div className="sub-title fz-12">
                 <a href="#0">
-                  <span>Design , </span>
+                  <span>SEO Optimisation ,</span>
                 </a>
                 <a href="#0">
-                  <span>Development</span>
+                  <span>Google Ads</span>
                 </a>
               </div>
               <h1 className="fz-55 mt-30">
-                Network of wormholes colonies extraordinary claims require.
+              Bienvenue dans notre section blog : conseils d&apos;experts pour booster votre entreprise et votre présence en ligne.
               </h1>
             </div>
             <div className="info d-flex mt-40 align-items-center">
@@ -49,15 +49,14 @@ function Slider() {
                         />
                       </a>
                       <a href="#0" className="ml-20">
-                        <span className="opacity-7">Author</span>
-                        <h6 className="fz-16">UiCamp</h6>
+                        <span className="opacity-7">Auteur</span>
+                        <h6 className="fz-16">Osmia.</h6>
                       </a>
                     </div>
                   </div>
                   <div className="date ml-50">
                     <a href="#0">
-                      <span className="opacity-7">Published</span>
-                      <h6 className="fz-16">August 6, 2021</h6>
+                      <h6 className="fz-16">May 12, 2024</h6>
                     </a>
                   </div>
                 </div>
@@ -65,7 +64,6 @@ function Slider() {
               <div className="right-info ml-auto">
                 <div>
                   <span className="pe-7s-comment fz-18 mr-10"></span>
-                  <span className="opacity-7">02 Comments</span>
                 </div>
               </div>
             </div>
@@ -74,7 +72,7 @@ function Slider() {
       </div>
       <div
         className="background bg-img mt-80"
-        data-background="/dark/assets/imgs/blog/b1.jpg"
+        data-background="/dark/assets/imgs/blog/blogb1.jpg"
       ></div>
     </div>
   );

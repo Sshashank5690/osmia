@@ -156,7 +156,7 @@ function Navbar() {
                   <span className="rolling-text">Travaillez avec nous</span>
                 </a>
                  <div className="dropdown-menu">
-                  <a className="dropdown-item" href="https://calendly.com/contact-sl29/30min">
+                  <a className="dropdown-item" href="/dark/page-contact">
                   Reserve a Call
                   </a>
                  
@@ -305,8 +305,8 @@ function Navbar() {
                     <div className="sub-menu">
                       <ul>
                         <li>
-                          <a href="/dark/home-main" className="sub-link">
-                          Remplir le formulaire
+                          <a href="/dark/page-contact" className="sub-link">
+                          Réservez votre appe
                           </a>
                         </li>
                       </ul>
@@ -331,7 +331,7 @@ function Navbar() {
                           <div className="o-hidden">
                             <div className="link cursor-pointer sub-dmenu">
                             <a href='/dark/page-about'>
-                            <span className="fill-text" data-text="À propos de nous" style={{fontSize: '22px'}}>
+                            <span className="fill-text" data-text="À propos de nous" style={{fontSize: '18px'}}>
                                 À propos de nous
                             </span>{' '}
                               </a>
@@ -353,7 +353,7 @@ function Navbar() {
                           <div className="o-hidden">
                             <div className="link cursor-pointer sub-dmenu">
                               <a href='/dark/page-services'>
-                              <span className="fill-text" data-text="Prestations de service" style={{fontSize: '22px'}}>
+                              <span className="fill-text" data-text="Prestations de service" style={{fontSize: '18px'}}>
                                   Prestations de service
                               </span>{' '}
                               </a>
@@ -377,7 +377,7 @@ function Navbar() {
                           <div className="o-hidden">
                             <div className="link cursor-pointer sub-dmenu">
                               <a href='/dark/page-contact'>
-                              <span className="fill-text" data-text="Contact" style={{fontSize: '22px'}}>
+                              <span className="fill-text" data-text="Contact" style={{fontSize: '18px'}}>
                                     Contact
                                 </span>{' '}
                               </a>
@@ -401,7 +401,7 @@ function Navbar() {
                           <div className="o-hidden">
                             <div className="link cursor-pointer sub-dmenu">
                               <a href='/dark/page-FAQS'>
-                              <span className="fill-text" data-text="FAQS" style={{fontSize: '22px'}}>
+                              <span className="fill-text" data-text="FAQS" style={{fontSize: '18px'}}>
                                   FAQS
                               </span>{' '}
                               </a>

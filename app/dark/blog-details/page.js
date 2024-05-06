@@ -1,26 +1,26 @@
-import generateStylesheetObject from '@/common/generateStylesheetsObject';
+import generateStylesheetObject from "@/common/generateStylesheetsObject";
 
-import Recent from '@/components/dark/blog-details/Recent';
-import Blog from '@/components/dark/blog-details/Blog';
-import Slider from '@/components/dark/blog-details/Slider';
-import Lines from '@/components/dark/common/Lines';
-import ProgressScroll from '@/components/dark/common/ProgressScroll';
-import Cursor from '@/components/dark/common/cusor';
-import LoadingScreen from '@/components/dark/common/loader';
-import Navbar from '@/components/dark/creative-agency/Navbar';
-import Script from 'next/script';
-import Footer from '@/components/dark/blog-details/Footer';
+// import Recent from '@/components/dark/blog-details/Recent';
+import Blog from "@/components/dark/blog-details/Blog";
+import Slider from "@/components/dark/blog-details/Slider";
+import Lines from "@/components/dark/common/Lines";
+import ProgressScroll from "@/components/dark/common/ProgressScroll";
+import Cursor from "@/components/dark/common/cusor";
+import LoadingScreen from "@/components/dark/common/loader";
+import Navbar from "@/components/dark/creative-agency/Navbar";
+import Script from "next/script";
+import Footer from "@/components/dark/blog-details/Footer";
 
 export const metadata = {
-  title: 'Infolio',
+  title: "Infolio",
   icons: {
-    icon: '/dark/assets/imgs/favicon.ico',
-    shortcut: '/dark/assets/imgs/favicon.ico',
+    icon: "/dark/assets/imgs/favicon.ico",
+    shortcut: "/dark/assets/imgs/favicon.ico",
     other: generateStylesheetObject([
-      '/dark/assets/css/plugins.css',
-      '/dark/assets/css/satoshi.css',
-      '/dark/assets/css/style.css',
-      'https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap',
+      "/dark/assets/css/plugins.css",
+      "/dark/assets/css/satoshi.css",
+      "/dark/assets/css/style.css",
+      "https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap",
     ]),
   },
 };
@@ -38,7 +38,7 @@ export default function BlogClassic() {
           <main className="main-bg">
             <Slider />
             <Blog />
-            <Recent />
+            {/* <Recent /> */}
           </main>
           <Footer />
         </div>
