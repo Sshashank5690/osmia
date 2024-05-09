@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@vercel/analytics": "^1.2.2",
     "eslint": "8.56.0",
     "eslint-config-next": "14.0.4",
     "next": "^14.2.0-canary.50",
