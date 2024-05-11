@@ -16,6 +16,7 @@ import Services2 from "@/components/dark/home-main/Services2";
 // import Team from "@/components/dark/home-main/Team";
 import Testimonials from "@/components/dark/home-main/Testimonials";
 import Script from "next/script";
+import { Analytics } from "@vercel/analytics/react";
 
 export const metadata = {
   title: "Osmia.",
